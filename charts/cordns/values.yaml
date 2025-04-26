@@ -1,0 +1,7 @@
+isClusterService: false
+replicaCount: 2
+service:
+  type: ClusterIP
+  port: 53
+  protocol: UDP
+
